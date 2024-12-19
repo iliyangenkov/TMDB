@@ -1,7 +1,7 @@
 # TMDB Movie Data Exploration and Visualisation
 
 ## Project Overview
-An independent challenge project aiming to analyse and visualise trends in a comprehensive movie database. By drawing insights insights and identifying trends, our client 'The Movie Database' hopes to use this information to create a movie recommendation system for its customers. The goal was to create a story that I will tell to my technical manager about my findings. This was towards the start of my journey towards data exploration with python.
+An independent challenge project aiming to analyse and visualise trends in a comprehensive movie database. By drawing insights and identifying trends, our client 'The Movie Database' will use this information to create a movie recommendation system for its customers. The goal was to create a story that I will tell to my technical manager about my findings. This was towards the start of my journey towards data exploration with Python.
 
 ---
 
@@ -15,7 +15,7 @@ An independent challenge project aiming to analyse and visualise trends in a com
 
 2. **Exploratory Data Analysis (EDA)**  
    Gaining insights from the dataset through:
-   - Exploring the distributions of Genres and other variables in the data  
+   - Exploring the distributions the variables in the data, and any correlations between them
    - Conducting individual film analysis on two films of choice, involving research outside the dataset
 
 3. **Data Visualisation**  
