@@ -34,4 +34,7 @@ The TMDB_Notebook.ipynb notebook serves as the central hub for this project. It 
  2.	Visualizations and insights drawn from the data.
  3.	Individual film analysis on Psycho (1960) and Spectre (2015)
  4.	Key findings
-     
+
+TMDB_movies.csv is the movies dataset provided for the project.
+
+TMDB_quality_checks.csv is a small spreadsheet conducting quality checks (counts of rows, distinct rows, nulls etc.), which were compared to the results in the notebook to make sure that everything was inported correctly.
